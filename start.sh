@@ -1,5 +1,5 @@
 #!/bin/bash
-cd web7 # Your app working directory!!!
+cd web # Your app working directory!!!
 export PORT=5000
 unset PIP_USER
 
